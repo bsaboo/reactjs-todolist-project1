@@ -43,11 +43,11 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/your-username/todo-app.git
+    git clone https://github.com/bsaboo/reactjs-todolist-project1.git
     ```
 2. Navigate to the project directory
     ```bash
-    cd todo-app
+    cd reactjs-todolist-project1
     ```
 3. Install the dependencies
     ```bash
@@ -80,6 +80,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Bansi Saboo - [Your Email](mailto:your-email@example.com) - [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+Bansi Saboo - [bansi.saboo@gmail.com](mailto:bansi.saboo@gmail.com) - [LinkedIn](https://www.linkedin.com/in/bansi-saboo-93833b152/)
 
-Project Link: [https://github.com/your-username/todo-app](https://github.com/your-username/todo-app)
+Project Link: [https://github.com/bsaboo/reactjs-todolist-project1](https://github.com/bsaboo/reactjs-todolist-project1)
+
